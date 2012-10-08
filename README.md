@@ -6,6 +6,8 @@ Presto is a simple open-source rolling plotter.
 This device was part of my diploma graduation project, this is the frame 
 that I used to develop a modified, continuous-feed 4-color plotter.
 
+The plans available here let you build this : https://vimeo.com/39360161.
+
 See a modified version of the frame here : https://vimeo.com/45618302.
 
 The tool-head design is left to do considering what you want to use as 
