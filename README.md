@@ -21,3 +21,5 @@ Servo control (I originally used a simple ATTiny45 to sample the shield
 pin and drive the servo accordingly).
 
 The BOM is available here http://kitbom.com/thibalte/presto.
+
+See LICENSE.txt.
